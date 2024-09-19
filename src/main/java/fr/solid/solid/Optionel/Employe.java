@@ -6,6 +6,7 @@ public class Employe{
     private String prenom;
     private String Telephone;
     private Boolean cadre;
+    private Boolean xx;
 
     public Employe(Long presonneId, String nom, String prenom, String telephone, Boolean cadre) {
         this.presonneId = presonneId;
